@@ -1,4 +1,4 @@
-**Problem:**Vrinda store wants to understand their customer and sale performance in order to improve their performance in upcoming years.
+**Problem:** Vrinda store wants to understand their customer and sale performance in order to improve their performance in upcoming years.
 **Questions to be answered:**
 - Month Wise Sale
 - Month Wise Count of Order
